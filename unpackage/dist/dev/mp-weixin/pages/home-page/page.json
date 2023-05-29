@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "贵院私房菜",
+  "navigationBarBackgroundColor": "#e85252",
+  "usingComponents": {
+    "cart": "/pages/home-page/components/shopping-cart",
+    "details": "/pages/home-page/components/goods-details",
+    "home": "/pages/skeleton-view/home"
+  }
+}
